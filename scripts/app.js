@@ -1,3 +1,5 @@
+import {nav} from "../scripts/nav"
+
 var navLinks = document.getElementById("navLinks");
 
     function showMenu(){
